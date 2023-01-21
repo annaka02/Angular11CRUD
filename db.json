@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "awa",
+      "lastname": "ndiaye",
+      "email": "awa@gmail.com",
+      "mobile": "09988766",
+      "salary": "54.000"
+    },
+    {
+      "id": 3,
+      "firstname": "fatou",
+      "lastname": "yacine",
+      "email": "fatya@gmail.com",
+      "mobile": "7885433",
+      "salary": "12.000"
+    },
+    {
+      "id": 4,
+      "firstname": "yani",
+      "lastname": "diop",
+      "email": "yanid@gmail.com",
+      "mobile": "6535887",
+      "salary": "15.000"
+    },
+    {
+      "id": 5,
+      "firstname": "mami",
+      "lastname": "fall",
+      "email": "mamif@gmail.com",
+      "mobile": "2346586",
+      "salary": "17.000"
+    },
+    {
+      "id": 6,
+      "firstName": "amy",
+      "lastName": "ndiaye",
+      "email": "amyN@gmail.com",
+      "mobile": "123456",
+      "salary": "1256"
+    }
+  ]
+}
